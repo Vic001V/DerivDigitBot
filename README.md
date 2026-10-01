@@ -1,0 +1,2 @@
+# DerivDigitBot
+Trading Bot
